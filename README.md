@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-Im a Computer Science student who has a strong interest and enjoys Full Stack development.
+Im a Computer Science student :student: who has a strong interest and enjoys Full Stack development.
 
-Some of my current knowledge and skills are:
+:reminder_ribbon:	Some of my current knowledge and skills are:
 
 - Java (Including Spring Framwork and Spring Boot)
 - JavaScript and TypeScript (Vanilla, jQuery and Angular 2+)
 - HTML / CSS (With technologies such as Bootstrap and SCSS for Bootstrap and other use cases)
 - SQL (Usage in several RDB's: MSSQL, MySQL, PostgreSQL as well as new features and dialect specific queries)
 
-Topics and technonlogies that i strive to accomplish:
+:cloud: Topics and technonlogies that i strive to accomplish:
 
 - Stronger knowlegde and better practical use of cloud platforms (Such as AWS, Azure and GCP)
 - Virtualization and other OS's environments suited for application deployment and hosting
