@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Jamonse/Jamonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Computer Science student who has a strong interest and enjoys Full Stack development.
 
-Here are some ideas to get you started:
+Some of my current knowledge and skills are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java (Including Spring Framwork and Spring Boot)
+- JavaScript and TypeScript (Vanilla, jQuery and Angular 2+)
+- HTML / CSS (With technologies such as Bootstrap and SCSS for Bootstrap and other use cases)
+- SQL (Usage in several RDB's: MSSQL, MySQL, PostgreSQL as well as new features and dialect specific queries)
+
+Topics and technonlogies that i strive to accomplish:
+
+- Stronger knowlegde and better practical use of cloud platforms (Such as AWS, Azure and GCP)
+- Virtualization and other OS's environments suited for application deployment and hosting
+- Additional system design patterns and topics for both frontend and backend applications
