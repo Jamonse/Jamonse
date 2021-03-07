@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im a Computer Science student :student: who has a strong interest and enjoys Full Stack development.
+Im a Computer Science student :student: who has a strong interest in Full Stack development.
 
 :reminder_ribbon:	Some of my current knowledge and skills are:
 
